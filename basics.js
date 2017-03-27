@@ -9,6 +9,8 @@ var arr, findTwo, pusher, upFront, remover, copyCat, chopIt, sumIt, evenOdd,
 // 1. Create the variable arr and assign it an array with the following list of
 // numbers 12, 42, 36, 51, 96
 
+var arr = [12, 42, 36, 51, 96];
+
 // 2. Create a function called findTwo that takes in the arr array and returns
 // the value at index 2.
 
